@@ -1,0 +1,1 @@
+The calculator improves billing accuracy by automating basic math used in residual calculations. This helps our team send correct bills faster, reducing mistakes and improving the patient experience.
